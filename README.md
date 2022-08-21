@@ -40,7 +40,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Samuel Wai Weng Yong - <a href="mailto:samuelyongw@gmail.com"> samuelyongw@gmail.com </a>
 
-Project Link: [Password-Generator](https://github.com/KangaZero/kangazero.Personal_Portfolio.io.git)
+Project Link: [Password-Generator](https://github.com/KangaZero/kangazero.Password_Generator.io.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
